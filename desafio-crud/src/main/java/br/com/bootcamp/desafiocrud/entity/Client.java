@@ -1,4 +1,4 @@
-package br.com.bootcamp.desafiocrud.Entity;
+package br.com.bootcamp.desafiocrud.entity;
 
 import java.time.Instant;
 
