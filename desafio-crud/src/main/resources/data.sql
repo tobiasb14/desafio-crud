@@ -1,0 +1,10 @@
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Paulo Arantes', '29260091004', 6500.0, TIMESTAMP WITH TIME ZONE '1985-07-13T20:50:07.12345Z', 2);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Ludmila Sobral', '93523564034', 3500.0, TIMESTAMP WITH TIME ZONE '1993-06-14T10:00:00Z', 0);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Antonio Souza', '52208910060', 6000.0, TIMESTAMP WITH TIME ZONE '1978-07-12T10:00:00Z', 1);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Gabriela Nunes', '40327135026', 2700.0, TIMESTAMP WITH TIME ZONE '1996-04-03T10:00:00Z', 3);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Ayrton Silva', '27960745013', 4500.0, TIMESTAMP WITH TIME ZONE '1980-05-10T10:00:00Z', 2);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Sandra Rosario', '13691121063', 5500.0, TIMESTAMP WITH TIME ZONE '1970-07-24T10:00:00Z', 1);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Carlos Albuquerque', '01663883009', 2200.0, TIMESTAMP WITH TIME ZONE '2000-012-14T10:00:00Z', 0);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Maria Palhares', '98480046023', 9000.0, TIMESTAMP WITH TIME ZONE '1982-11-12T10:00:00Z', 2);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Lucio Costa', '66817097029', 8500.0, TIMESTAMP WITH TIME ZONE '1981-04-04T10:00:00Z', 1);
+INSERT INTO client (name, cpf, income, birth_Date, children) VALUES ('Andressa Gomes', '45683267021', 2500.0, TIMESTAMP WITH TIME ZONE '1998-07-11T10:00:00Z', 0);
